@@ -22,7 +22,7 @@ I recommend creating your own repository with the "Use this template" button at 
 If you have Git, you can download the files to your computer by opening a command line in your directory of choice (e.g. `Documents/Projects/`) and enter this into the command bar:
 
 ```
-git clone https://github.com/portfiend/eleventy-oc-directory-template.git
+git clone https://github.com/portfiend/eleventy-template.git
 ```
 
 ...or replace that link with the HTTPS/SSH link to your personal repository, which can be found in the "Code" dropdown button at the top of the repository.
