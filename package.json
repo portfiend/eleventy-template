@@ -1,5 +1,5 @@
 {
-  "name": "portfiend-template",
+  "name": "eleventy-template",
   "version": "1.0.0",
   "description": "A bare-bones website template",
   "scripts": {
